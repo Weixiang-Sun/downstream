@@ -1,0 +1,1 @@
+python main.py --model resnet18 --dataset_path /scratch365/zyuan2/data/pad_cls --batch_size 64 --epochs 100 --test_per_epoch 1
